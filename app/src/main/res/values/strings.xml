@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bet Match</string>
+    <string name="tables">Таблица</string>
+    <string name="news">Новости</string>
+    <string name="stats">Статистика</string>
+    <string name="settings">Настройки</string>
+</resources>
